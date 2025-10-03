@@ -9,7 +9,7 @@ I’m very passionate about technology overall. I’m a very avid learner: if so
 ## 🏫 Background
 👨‍💻 Over the years, I have improved my skills in programming, always aiming to follow good principles and write consistent and neat code, which allowed me to develop more complex projects and evolve their quality. As of right now I go to high school meaning that my time is limited, but I try to use it as effectively as possible.
 
-My expertise includes a solid understanding of programming concepts, which can be applied to multiple languages. I am fluent in Luau, JavaScript, Python and C#.
+My expertise includes a solid understanding of programming concepts, which can be applied to multiple languages.
 
 ![Stats](https://github-readme-stats-two-beige-60.vercel.app/api?username=010devx101&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats-two-beige-60.vercel.app/api/top-langs/?username=010devx101&exclude_repo=Aliens-Do-Not-Exist,Juego-Spriggan,Codename-Gunner&layout=compact&hide=solidity,shell,html,css&theme=tokyonight)
